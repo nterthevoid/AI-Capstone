@@ -6,10 +6,12 @@ The goal behind this capstone project is not to solve a specific problem but to 
 **1. Introduction**
 
 * **1.1 Project Background:** 
-    * Briefly discuss the increasing demand for AI-powered chatbots in various sectors.
+    * I am technically savvy in networking, compute, python, Linux, AWS, virtualization, cybersecurity with experience in using python with API calls to Generative AI including; open-ai, Gemini, and AWSs Bard. I would like to challenge myself with a custom (made for me) capstone project that focuses on AI, docker, cybersecurity, and includes single sign on, and my experience with AWS public cloud, python and Linux.
     * Highlight the importance of security, scalability, and user experience in chatbot development.
+    * How to create a containerized, Internet accessible chatbot, behind a secure, SSO with MFA website,  leveraging my knowledge of Python, API, LLM, AWS, Docker and extending my understanding of LLM training, custom models, TensorFlow and RAG.   Stretch goal to include multi-cloud  docker environment and include GPU based hardware with TensorFlow integration.
+    * Learn new things durring the process of development.
 * **1.2 Problem Statement:** 
-    * Define the challenges and limitations of existing chatbot solutions, such as security vulnerabilities, limited scalability, and inadequate user experience.
+    * How to create, a containierized Define the challenges and limitations of existing chatbot solutions, such as security vulnerabilities, limited scalability, and inadequate user experience.
 * **1.3 Project Objectives:**
     * Develop a secure and scalable AI-powered chatbot application with enhanced features.
     * Implement robust security measures, including SSO, 2FA, and secure access controls.
