@@ -1,6 +1,8 @@
 # Capstone Project Outline: 
 ## Secure & Scalable AI-Powered Chatbot with Enhanced Security and Advanced Features
 
+The goal behind this capstone project is not to solve a specific problem but to find new problems to solve and to learn new things in the process.  
+
 **1. Introduction**
 
 * **1.1 Project Background:** 
